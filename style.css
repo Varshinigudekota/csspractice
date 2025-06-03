@@ -1,0 +1,36 @@
+.container{
+    width:85%;
+    height: 500px;
+    margin-left: 80px;
+    padding: 50px;
+}
+h2{
+    padding-left: 700px;
+}
+
+.box1, .box2, .box3, .box4{
+    display: inline-block;
+    padding-right: 10px;
+}
+img{
+    width:300px;
+}
+.container2{
+    margin:auto;
+    margin-top: 25px;
+   
+    width:500px;
+    height:450px;
+}
+#image1{
+    width:500px;
+}
+#para5{
+    padding-left: 100px;
+}
+#para1, #para2, #para3, #para4{
+    padding-left: 30px;
+}
+#head1, #head2, #head3, #head4{
+    padding-left:45px;
+}
